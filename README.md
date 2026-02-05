@@ -3,7 +3,7 @@
 An interactive data visualization and predictive analytics dashboard built to transform raw sales data into actionable business insights.
 
 ### 📺 Project Demo
-![Project Demo Video](VID_-٢٠٢٦٠٢٠٥-٠١٠٨٤٠.mp4)
+[📺 Click here to watch the Project Demo](VID_-٢٠٢٦٠٢٠٥-٠١٠٨٤٠.mp4)
 
 ---
 
