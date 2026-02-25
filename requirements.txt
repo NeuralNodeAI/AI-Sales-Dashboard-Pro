@@ -3,5 +3,6 @@ pandas
 matplotlib
 numpy
 scikit-learn
+seaborn
 xlsxwriter
 openpyxl
